@@ -1,0 +1,13 @@
+{
+  "workbench.settings.useSplitJSON": true,
+  "workbench.settings.openDefaultSettings": true,
+  "javascript.validate.enable": false,
+  "breadcrumbs.enabled": true,
+  "editor.formatOnSave": false,
+  "[javascript]": {
+    "files.trimTrailingWhitespace": true,
+    "editor.formatOnSave": true
+  },
+  "git.ignoreLimitWarning": true,
+  "editor.tabSize": 2
+}
